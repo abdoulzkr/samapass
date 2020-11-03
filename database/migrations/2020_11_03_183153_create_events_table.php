@@ -18,7 +18,12 @@ class CreateEventsTable extends Migration
             $table->string('name');
             $table->string('city');
             $table->string('category');
-            $table->string('category');
+            $table->text('description');
+            $table->date('start_at');
+            $table->date('start_day_at');
+            $table->date('start_hour_at');
+            $table->date('end_day_at');
+            $table->date('end_hour_at');
             $table->timestamps();
         });
     }
