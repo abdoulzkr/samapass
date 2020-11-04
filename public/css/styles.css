@@ -1,0 +1,334 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+header {
+    width: 100%;
+    height: 326px;
+    background: url(../img/back_create.png) center center no-repeat;
+    background-size: cover;
+}
+
+.menu{
+    margin-top: 50px;
+}
+
+
+.cssHpf {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: rgb(34, 34, 34);
+    display: flex;
+    font-weight: 700;
+    align-self: flex-start;
+    text-align: left;
+    width: 100%;
+}
+
+.info-text {
+    font-size: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    font-weight: 700;
+    text-align: left;
+    width: 100%;
+}
+
+.form-input {
+    font-size: 14px;
+    padding: 12px 8px;
+    border: 1px solid rgb(204, 204, 204);
+    font-family: futura-pt;
+}
+
+.description-input {
+    width: 99%;
+    height: 200px!important;
+    font-size: 14px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(204, 204, 204);
+}
+
+.label-style {
+    margin-bottom: 4px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.jSRCOh666 {
+    margin: 0px 0px 8px;
+    font-size: 14px;
+    line-height: 1.92;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.egUkPp {
+    width: 100%;
+    margin-top: 30px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.iLpaAE {
+    display: inline-flex;
+    background: rgb(24, 24, 24);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    cursor: pointer;
+    border: 0px;
+    outline: 0px;
+    font-family: futura-pt;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 100%;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.dsCofs {
+    font-size: 17px;
+    line-height: 140%;
+    margin-bottom: 10px;
+    color: rgb(34, 34, 34);
+    display: flex;
+    font-weight: 700;
+    align-self: flex-start;
+    text-align: left;
+    width: 50%;
+    margin-left: 30px;
+    text-transform: uppercase;
+}
+
+.iTtavY {
+    font-size: 16px;
+    line-height: 140%;
+    color: rgb(34, 34, 34);
+    display: flex;
+    font-weight: 300;
+    align-self: flex-start;
+    font-family: futura-pt;
+    text-align: left;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.jXBMDf {
+    line-height: 16px;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    color: rgb(147, 147, 147);
+    margin-bottom: 16px;
+}
+
+
+.fOyubX {
+    color: rgb(250, 106, 0);
+    letter-spacing: 0.5px;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-bottom: 16px;
+    display: inline-block;
+}
+
+h6 {
+    display: block;
+    font-size: 0.67em;
+    margin-block-start: 2.33em;
+    margin-block-end: 2.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.dYsgJw {
+    margin: 0px 0px 8px;
+    font-size: 14px;
+    line-height: 1.92;
+    color: rgb(0, 0, 0);
+}
+
+.dmPrpw {
+    display: flex;
+    font-family: futura-pt;
+    flex-direction: column;
+    padding: 0px 32px;
+    margin: 0px auto;
+    width: 1300px;
+    max-width: calc(100% - 64px);
+}
+
+.ehHReP {
+    display: block;
+}
+
+.liNWDI {
+    display: flex;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    margin-top: 64px;
+    padding: 64px 0px;
+}
+
+
+.cHwoNS {
+    display: flex;
+    flex-direction: column;
+}
+
+.fgmANu {
+    flex: 0 0 auto;
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+    letter-spacing: 0.5px;
+    cursor: pointer;
+}
+
+
+.kTOYMc {
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    line-height: 15px;
+    color: rgb(117, 117, 117);
+}
+
+.cwwuJw {
+    display: flex;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.eofhIB {
+    color: rgb(147, 147, 147);
+    margin: 0px;
+    line-height: 1.5;
+}
+
+.iGuILt {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0px;
+    cursor: pointer;
+    border: 0px;
+}
+
+.bpJFph {
+    margin: 8px 0px;
+    font-size: 12px;
+    border: 0px;
+}
+
+.dNEvPj {
+    display: inline-flex;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    cursor: pointer;
+    border: 0px;
+    outline: 0px;
+    font-family: futura-pt;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.hncELC {
+    align-self: flex-start;
+    background: rgb(250, 106, 0);
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    text-transform: none;
+}
+
+
+
+.eJivgU {
+    font-size: 14px;
+    padding: 12px 8px;
+    border: 1px solid rgb(204, 204, 204);
+    font-family: futura-pt;
+}
+
+/*Menu */
+
+.fKwVtY {
+    display: flex;
+    line-height: 122%;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex: 1 1 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    z-index: 99;
+}
+
+
+
+.filHEy {
+    display: flex;
+    margin-right: 70px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.hGsQAe {
+    display: flex;
+    margin-right: 70px;
+    color: rgba(255, 255, 255, 0.7);
+    text-transform: uppercase;
+    cursor: not-allowed;
+    width: 100%;
+}
+
+
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: textfield;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}

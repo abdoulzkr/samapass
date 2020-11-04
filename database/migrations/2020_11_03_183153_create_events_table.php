@@ -20,10 +20,9 @@ class CreateEventsTable extends Migration
             $table->string('category');
             $table->text('description');
             $table->date('start_at');
-            $table->date('start_day_at');
-            $table->date('start_hour_at');
-            $table->date('end_day_at');
-            $table->date('end_hour_at');
+            $table->time('start_time');
+            $table->date('end_at');
+            $table->time('end_time');
             $table->timestamps();
         });
     }
