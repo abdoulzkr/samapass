@@ -273,6 +273,10 @@ p {
     font-family: futura-pt;
 }
 
+.message-error{
+    display: none;
+}
+
 /*Menu */
 
 .fKwVtY {
@@ -307,6 +311,7 @@ p {
     cursor: not-allowed;
     width: 100%;
 }
+
 
 
 input {

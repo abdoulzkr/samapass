@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Laravel</title>
+    <title>Samapass</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -17,8 +17,9 @@
 </head>
 <body class="antialiased">
 <header class="container-fluid">
+
     <div class="container mt-5">
-        <div type="event" class="styles__LargeHeroWrapper-yypido-0 fKwVtY"><div class="styles__StepTitle-yypido-1 filHEy">1.Créer votre évènement</div><div class="styles__StepTitle-yypido-1 hGsQAe">2.Géolocaliser l'événement</div><div class="styles__StepTitle-yypido-1 hGsQAe">3.Configurez les billets</div><div class="styles__StepTitle-yypido-1 hGsQAe">4.Et voilà le travail !</div></div>
+        <div class="styles__LargeHeroWrapper-yypido-0 fKwVtY"><div class="styles__StepTitle-yypido-1 filHEy">1.Créer votre évènement</div><div class="styles__StepTitle-yypido-1 hGsQAe">2.Géolocaliser l'événement</div><div class="styles__StepTitle-yypido-1 hGsQAe">3.Configurez les billets</div><div class="styles__StepTitle-yypido-1 hGsQAe">4.Et voilà le travail !</div></div>
         <svg viewBox="0 0 208.68 32.65" style="width: 200px;"><defs><style>.asset45_svg__cls-5{fill:#fff}.asset45_svg__cls-8{fill:#f4f4f5}</style><linearGradient id="asset45_svg__New_Gradient_Swatch_2" x1="30.06" y1="13.23" x2="48.75" y2="13.23" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"></stop><stop offset="1" stop-color="#d7d8d9"></stop></linearGradient><linearGradient id="asset45_svg__New_Gradient_Swatch_2-2" x1="51.63" y1="17.41" x2="71.53" y2="17.41" xlink:href="#asset45_svg__New_Gradient_Swatch_2"></linearGradient><linearGradient id="asset45_svg__New_Gradient_Swatch_2-3" x1="75.71" y1="17.26" x2="104.65" y2="17.26" xlink:href="#asset45_svg__New_Gradient_Swatch_2"></linearGradient><linearGradient id="asset45_svg__New_Gradient_Swatch_2-4" x1="108.18" y1="17.41" x2="128.08" y2="17.41" xlink:href="#asset45_svg__New_Gradient_Swatch_2"></linearGradient></defs><g id="asset45_svg__Layer_2" data-name="Layer 2"><g id="asset45_svg__Layer_1-2" data-name="Layer 1"><path d="M32.87 18.3a8.88 8.88 0 0 0 5.81 2.59 3.33 3.33 0 0 0 2.55-.89 2.26 2.26 0 0 0 .64-1.59 2 2 0 0 0-.72-1.52 9.05 9.05 0 0 0-3.27-1.33L36.17 15a8.22 8.22 0 0 1-3.64-2 6.38 6.38 0 0 1-1.44-4.48 8.29 8.29 0 0 1 2.31-6.13A8.94 8.94 0 0 1 39.9 0a17.84 17.84 0 0 1 7.82 2.05L45.1 7.18a6.68 6.68 0 0 0-4.33-1.71 3.12 3.12 0 0 0-2.16.76A1.88 1.88 0 0 0 38 7.6a1.71 1.71 0 0 0 .34 1.13 4.12 4.12 0 0 0 2.2 1.14l2 .61A9.78 9.78 0 0 1 47.11 13a6 6 0 0 1 1.64 4.52 8.58 8.58 0 0 1-2.4 6.38c-2.16 2.16-4.78 2.58-7.48 2.58a13.41 13.41 0 0 1-5-.84 17.56 17.56 0 0 1-3.84-2z" fill="url(#asset45_svg__New_Gradient_Swatch_2)"></path><path d="M65.45 8.92h6.08v17h-6.08V24a6.31 6.31 0 0 1-5.27 2.43 8.12 8.12 0 0 1-6.12-2.7 8.56 8.56 0 0 1-2.43-6.23 9.37 9.37 0 0 1 2.62-6.79 8.7 8.7 0 0 1 6.12-2.39 6.69 6.69 0 0 1 5.08 2.2zm-6.38 5.7a4 4 0 0 0-1.21 2.77A3.94 3.94 0 0 0 59 20.17a4.26 4.26 0 0 0 2.73 1.13 3.87 3.87 0 0 0 2.73-1.17 3.66 3.66 0 0 0 1.14-2.74 3.75 3.75 0 0 0-1.17-2.77 3.86 3.86 0 0 0-5.4 0z" fill="url(#asset45_svg__New_Gradient_Swatch_2-2)"></path><path d="M75.71 8.92h6.07V11a6.53 6.53 0 0 1 5.09-2.36 7 7 0 0 1 3.27.76 5.31 5.31 0 0 1 2.35 2.43 6 6 0 0 1 2.32-2.35 6.81 6.81 0 0 1 3.53-.84 6.74 6.74 0 0 1 4.71 1.56 6.23 6.23 0 0 1 1.6 4.67v11h-6.08v-8.36c0-1.79-.19-3-.87-3.65a2.26 2.26 0 0 0-1.6-.57 2.43 2.43 0 0 0-1.78.69 4.31 4.31 0 0 0-1.11 3.22v8.7h-6.07v-8.39c0-1.64-.12-2.93-.8-3.65a2.34 2.34 0 0 0-1.82-.68 2.11 2.11 0 0 0-1.67.61c-1.07 1-1.07 2.65-1.07 3.72v8.39h-6.07z" fill="url(#asset45_svg__New_Gradient_Swatch_2-3)"></path><path d="M122 8.92h6.08v17H122V24a6.34 6.34 0 0 1-5.28 2.43 8.11 8.11 0 0 1-6.11-2.7 8.52 8.52 0 0 1-2.43-6.23 9.37 9.37 0 0 1 2.62-6.79 8.69 8.69 0 0 1 6.11-2.39 6.72 6.72 0 0 1 5.09 2.2zm-6.38 5.7a3.81 3.81 0 0 0 0 5.55 4.31 4.31 0 0 0 2.73 1.13 3.9 3.9 0 0 0 2.74-1.17 3.7 3.7 0 0 0 1.14-2.74 3.76 3.76 0 0 0-1.23-2.77 3.85 3.85 0 0 0-5.39 0z" fill="url(#asset45_svg__New_Gradient_Swatch_2-4)"></path><path class="asset45_svg__cls-5" d="M139.41 18.15v7.93h-6.58V2.15h10.5a9.05 9.05 0 0 1 6.43 2.15 7.19 7.19 0 0 1 2.35 5.81 7.51 7.51 0 0 1-2.24 6 8.76 8.76 0 0 1-6.31 2.08zm0-5h2.21a4.48 4.48 0 0 0 2.77-.76 2.64 2.64 0 0 0 .84-2.19 2.78 2.78 0 0 0-.76-2.2 4 4 0 0 0-2.81-.86h-2.25zM167.75 10h6.08v16h-6.08v-1.68a6.52 6.52 0 0 1-5.29 2.3 8.41 8.41 0 0 1-6.12-2.55 7.83 7.83 0 0 1-2.43-5.89 8.61 8.61 0 0 1 2.62-6.42 9 9 0 0 1 6.12-2.26 6.91 6.91 0 0 1 5.1 2.08zm-6.39 5.38a3.65 3.65 0 0 0-1.22 2.62 3.61 3.61 0 0 0 1.18 2.62 4.44 4.44 0 0 0 2.74 1.08 4 4 0 0 0 2.74-1.12 3.39 3.39 0 0 0 1.14-2.58 3.46 3.46 0 0 0-1.18-2.62 4 4 0 0 0-5.4 0zM179.12 20.77a9 9 0 0 0 2.44 1.23 8.4 8.4 0 0 0 2.36.4 2.73 2.73 0 0 0 1.56-.43.92.92 0 0 0 .3-.76.85.85 0 0 0-.3-.72 3.93 3.93 0 0 0-1.6-.57l-1.6-.36a5.66 5.66 0 0 1-3-1.4 3.77 3.77 0 0 1-1.1-2.76 5.56 5.56 0 0 1 1.6-3.91 8.87 8.87 0 0 1 6.08-1.94 14.87 14.87 0 0 1 5.44 1l-2.05 3.66a8.81 8.81 0 0 0-3.2-.79 2.64 2.64 0 0 0-1.4.33.84.84 0 0 0-.54.78 1 1 0 0 0 .73.9c.57.22 1.06.22 2 .47l1.11.28a7.49 7.49 0 0 1 2.51 1.26 4.41 4.41 0 0 1 1.29 3.19 5.27 5.27 0 0 1-1.71 4c-2 1.86-4.87 2-6.28 2a13.09 13.09 0 0 1-6.76-1.88zM196 20.77a9 9 0 0 0 2.45 1.23 8.39 8.39 0 0 0 2.35.4 2.71 2.71 0 0 0 1.56-.43.9.9 0 0 0 .31-.76.83.83 0 0 0-.31-.72 3.88 3.88 0 0 0-1.59-.57l-1.6-.36a5.66 5.66 0 0 1-3-1.4 3.77 3.77 0 0 1-1.1-2.76 5.56 5.56 0 0 1 1.6-3.91 8.87 8.87 0 0 1 6.08-1.94 14.87 14.87 0 0 1 5.44 1l-2.05 3.66a8.81 8.81 0 0 0-3.2-.79 2.68 2.68 0 0 0-1.41.33.85.85 0 0 0-.53.78 1 1 0 0 0 .73.9c.57.22 1.06.22 2 .47l1.1.28a7.31 7.31 0 0 1 2.51 1.26 4.38 4.38 0 0 1 1.3 3.19 5.27 5.27 0 0 1-1.71 4c-2 1.86-4.87 2-6.28 2a13.12 13.12 0 0 1-6.85-1.87z"></path><path d="M23.2 16.4L13.86 20c-1.78-.38-4.64-.91-6.54-1.19C5 18.43 2.8 18.2.67 18.06H.53c0-.09 3.11-3.14 5.31-5.11l6.22 1.24z" fill="#d3d3d3"></path><path fill="none" d="M23.2 16.4l-.13 1.65"></path><path class="asset45_svg__cls-5" d="M20.12 3.23a.3.3 0 0 1 .22.2.51.51 0 0 1 .05.22.63.63 0 0 1-.4.62c-.22.06-.4-.14-.4-.43a.28.28 0 0 1 0-.09c-5.37 2.39-10.93 5.13-14.5 8.33a21.8 21.8 0 0 0-4.56 6L12 14.29l7.72-2.52a.46.46 0 0 1-.11-.32.62.62 0 0 1 .4-.62c.22-.05.4.14.4.43a.67.67 0 0 1-.07.31l2.67-.87c.05-.64.1-1.28.14-1.92a3 3 0 0 1-.92-2A2.94 2.94 0 0 1 23.56 4c.05-.58.09-1.16.14-1.74v-.44c-1.15.46-2.35.94-3.58 1.41zM20 5c.22 0 .4.14.4.43a.62.62 0 0 1-.39.62c-.22 0-.4-.14-.41-.43A.63.63 0 0 1 20 5zm0 2c.23-.06.41.14.41.43A.63.63 0 0 1 20 8c-.22.06-.4-.14-.4-.43A.62.62 0 0 1 20 7zm0 3c-.22.05-.4-.14-.4-.43a.62.62 0 0 1 .4-.68c.22-.05.4.14.41.43a.63.63 0 0 1-.41.62z"></path><path class="asset45_svg__cls-8" d="M19.77 3.36a.73.73 0 0 0-.17.39 55 55 0 0 0-13.79 9.3c-2.2 2-3.91 3.75-5 4.89l-.32.11v-.15l.67-8.75c4.14-1 8.5-2.26 13.06-3.8C16.15 4.7 18 4 19.77 3.36z"></path><path class="asset45_svg__cls-5" d="M23.2 16.4c-.15 2-.68 8.9-.68 8.9s-8.33.79-11.95 3.35c-3.76 1.25-7.29 2.6-10.57 4l.15-2a2.87 2.87 0 0 0 1.32-2.8 2.94 2.94 0 0 0-.95-2l.16-2.08 12.17-4z"></path><path class="asset45_svg__cls-8" d="M11.58 28.32a130.606 130.606 0 0 1 10.93-3.04l.56-7.23.13-1.65-.58.19A35 35 0 0 1 19 21.32a50.7 50.7 0 0 1-8.41 7.33l.94-.3z"></path></g></g></svg>
     </div>
 </header>
@@ -29,6 +30,7 @@
             {{ session()->get('message') }}
         </div>
     @endif
+    <div class="alert alert-danger message-error"></div>
     <div class="row">
         <div class="col-8">
             <div class="cssHpf">Informations de base sur l'événement</div>
@@ -81,7 +83,7 @@
                     Paramètres de confidentialité (afficher)
                 </h6>
 
-                <button color="#fff" type="submit" class="styles__SendButton-sc-1j8ij7v-21 egUkPp styles__ButtonWrapper-sc-14qbmvo-0 iLpaAE">Créer mon évènement</button>
+                <button color="#fff" id="send-event" type="submit" class="egUkPp iLpaAE">Créer mon évènement</button>
 
             </form>
 
@@ -178,6 +180,8 @@
     <h6 class="footer-copyright text-center py-3 kTOYMc">© SamaPass 2019. Tous Droits Réservés.</h6>
 
 </footer>
+
+<script type="text/javascript" src="{{ asset('js/main.js') }}"></script>
 
 </body>
 </html>

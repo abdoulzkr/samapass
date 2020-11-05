@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69eb8386-985c-4b3f-b0c1-b3edb211f341" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EventController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EventController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Event.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Event.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_03_183153_create_events_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_03_183153_create_events_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,13 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -183,7 +186,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604428345113</updated>
       <workItem from="1604428346174" duration="2533000" />
-      <workItem from="1604480549096" duration="17606000" />
+      <workItem from="1604480549096" duration="18257000" />
+      <workItem from="1604565916840" duration="8040000" />
     </task>
     <servers />
   </component>
@@ -200,5 +204,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="516" height="445" key="SwitcherDM" timestamp="1604572741688">
+      <screen x="0" y="23" width="1920" height="975" />
+    </state>
+    <state width="516" height="445" key="SwitcherDM/0.23.1920.975@0.23.1920.975" timestamp="1604572741688" />
+    <state x="625" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1604567917792">
+      <screen x="0" y="23" width="1920" height="975" />
+    </state>
+    <state x="625" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1920.975@0.23.1920.975" timestamp="1604567917792" />
   </component>
 </project>
