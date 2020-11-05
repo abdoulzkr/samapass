@@ -3,12 +3,7 @@ body {
     width: 100%;
     height: 100%;
 }
-header {
-    width: 100%;
-    height: 326px;
-    background: url(../img/back_create.png) center center no-repeat;
-    background-size: cover;
-}
+
 
 .menu{
     margin-top: 50px;
@@ -288,8 +283,171 @@ p {
     -webkit-box-align: center;
     align-items: center;
     text-align: center;
-    font-size: 18px;
+    font-size: 12px;
     z-index: 99;
+}
+
+
+.gHEYWG {
+    display: flex;
+    flex-direction: column;
+    height: 326px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url(../img/back_create.png);
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+
+.eoMaCT {
+    cursor: pointer;
+    text-decoration: none;
+    outline: 0px;
+    color: rgb(255, 121, 0);
+    font-size: 16px;
+    font-family: futura-pt;
+    line-height: 21px;
+    background: transparent;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-image: initial;
+    border-bottom: 2px solid transparent;
+    font-weight: 700;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.evitvy .styles__StyledPublishLink-sc-1ptuo75-1 {
+    color: rgb(255, 255, 255);
+}
+
+.hDIlQz {
+    display: flex;
+    flex: 0 1 auto;
+    margin-left: auto;
+    margin-right: 64px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.evitvy {
+    display: flex;
+    flex: 1 0 auto;
+}
+
+.dmPrpw > :first-child {
+    margin-top: 0px;
+}
+
+.dmPrpw > :last-child {
+    margin-bottom: 0px;
+}
+
+.evitvy .styles__StyledLink-sc-1ptuo75-0 {
+    color: rgb(255, 255, 255);
+}
+
+.hnGYZU + .styles__StyledLink-sc-1ptuo75-0 {
+    margin-left: 16px;
+}
+
+.hnGYZU {
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(24, 24, 24);
+    font-size: 16px;
+    line-height: 21px;
+    border-bottom: 2px solid transparent;
+    font-weight: 700;
+}
+
+button {
+    appearance: button;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+
+
+.fXLaqT {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 20px;
+    padding: 10px 0px 0px;
+}
+
+.rap-ref-div {
+    display: inline-block;
+    position: relative;
+}
+
+.evitvy .styles__StyledLink-sc-1ptuo75-0 {
+    color: rgb(255, 255, 255);
+}
+
+.evitvy .styles__StyledPublishLink-sc-1ptuo75-1:hover, .evitvy .styles__StyledPublishLink-sc-1ptuo75-1:focus {
+    border-color: rgb(255, 255, 255);
+}
+
+.eVziKy .styles__HeaderOuter-sc-1462v4-0 {
+    background: transparent;
+}
+
+.lnSfPJ {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 75px;
+}
+
+.invQhG {
+    flex: 0 0 auto;
+    cursor: pointer;
+}
+
+.bDQkOp {
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    color: rgb(255, 255, 255);
+    fill: rgb(255, 255, 255);
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 700;
+    margin-left: 16px;
+}
+
+.eVziKy .styles__Search-sc-1462v4-4 {
+    color: rgb(255, 255, 255);
+    fill: rgb(255, 255, 255);
+}
+
+
+.kCLElb {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
 }
 
 
@@ -298,6 +456,7 @@ p {
     display: flex;
     margin-right: 70px;
     font-weight: 700;
+    width: 100%;
     color: rgb(255, 255, 255);
     text-transform: uppercase;
     cursor: pointer;
@@ -305,7 +464,7 @@ p {
 
 .hGsQAe {
     display: flex;
-    margin-right: 70px;
+    margin-right: 35px;
     color: rgba(255, 255, 255, 0.7);
     text-transform: uppercase;
     cursor: not-allowed;
